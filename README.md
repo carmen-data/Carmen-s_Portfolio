@@ -4,7 +4,10 @@ Thank you for your time! I hope you find these projects as interesting as I did.
 
 # [Project 1: Virtual Casino Slot Machine]
 
-This was a personal project that tested my understanding of fundamental and intermediate python concepts. The model works by prompting the player to place a bet and choose the amount of lines they wish to bet on. There are some underlying conditions to the game that are integrated into the code, such as: a maximum bet for each line ($100) and a range of lines that can be selected (1-3). The game is built to progress through a boolean loop to keep the fun going until your bet runs out. Give it a try here: 
+This was a personal project that tested my understanding of fundamental and intermediate python concepts. The model works by prompting the player to place a bet and choose the amount of lines they wish to bet on. There are some underlying conditions to the game that are integrated into the code, such as: a maximum bet for each line ($100) and a range of lines that can be selected (1-3). The game is built to progress through a boolean loop to keep the fun going until your bet runs out. 
+
+Disclaimer: This is just for fun. There is no actual money exchange involved. Happy playing!
+You can find the code here: (https://github.com/carmen-data/SlotMachine/blob/942e7bb143085b9217532de00ba1f4458bdf907b/SlotMachine.py) 
 
 
 # [Project 2: IBM HR Data Analysis]
